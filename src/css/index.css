@@ -1,0 +1,8 @@
+ .videolist {
+    cursor: pointer;
+}
+.videolist:hover {
+    background-color: #eee;
+} 
+
+
